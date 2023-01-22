@@ -1,7 +1,7 @@
 # Software-testing
 ### Hello World! 
 
-Jestem farmaceutą z kilkuletnim doświadczeniem, na drodze do zmiany zawodu. Od jakiegoś czasu uczę się używania narzędzi i kształcę się w kierunku testowania oprogramowania.
+Jestem farmaceutą z kilkuletnim doświadczeniem, na drodze do zmiany zawodu. Od jakiegoś czasu uczę się używania narzędzi i kształcę w kierunku testowania oprogramowania.
 
 Na moim GitHubie prezentuje przykładowe efekty mojej pracy z wykorzystaniem dedykowanych narzędzi.
 
